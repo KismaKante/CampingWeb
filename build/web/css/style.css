@@ -1,0 +1,47 @@
+/*
+To change this license header, choose License Headers in Project Properties.
+To change this template file, choose Tools | Templates
+and open the template in the editor.
+*/
+/* 
+    Created on : 05-oct-2018, 21:19:13
+    Author     : - kisma kante - 1Dawnm161711@gtmail.com
+*/
+ html{
+                height: 100%;
+            }
+            
+            body,body>div{
+                margin: 0 auto;
+                height: 100%;
+            }
+            
+            header{
+                height: 15%;
+                border-color: red;
+                border: 1px solid red;
+                display: flex;
+                flex-direction: row;                
+            }
+            
+            body>div>div{
+                height: 70%;
+                border: 1px solid blue;
+                    
+            }
+            
+            footer{
+                height: 15%;
+                border: 1px solid blueviolet;
+            }
+            header,div,footer{
+                
+            }
+
+.incio{
+      color: red;
+    display: flex;
+                flex-direction: row;
+     text-decoration: none; 
+               
+            }
